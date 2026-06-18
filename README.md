@@ -23,7 +23,7 @@
 
 ## 📌 Project Overview
 This project analyzes **employee attrition and performance** across
-departments, job roles, and demographics using the IBM HR Analytics
+departments, job roles, and demographics using the HR Analysis
 Dataset of **1,470 employees**.
 
 The goal is to identify key factors driving employee attrition and
