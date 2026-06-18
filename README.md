@@ -58,7 +58,7 @@ evaluate performance trends to help HR teams make data-driven decisions.
 ---
 
 ## 📊 Dataset
-- **Source:** [HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) — Kaggle
+- **Source:** [HR analysis] — Kaggle
 - **Records:** 1,470 employees
 - **Features:** 35 columns including Age, Department, Job Role,
   Attrition, Monthly Income, Performance Rating and more
